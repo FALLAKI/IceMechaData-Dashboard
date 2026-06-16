@@ -32,7 +32,7 @@ https://icemechadata-dashboard-xfese6nntnuhad84uazeuw.streamlit.app/
 
 
 
-#Installation and Local Deployment
+# Installation and Local Deployment
 
 ## 1- Create a Virtual Environment (Recommended)
 
@@ -102,7 +102,7 @@ When you are finished, deactivate the virtual environment:
 deactivate
 ```
 
-#Citation
+# Citation
 
 If you use the IceMechaData Dashboard or its underlying database in your research, please cite the corresponding publication(s) and the original experimental studies from which the data were obtained.
 
