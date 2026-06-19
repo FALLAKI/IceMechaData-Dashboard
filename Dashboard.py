@@ -10,7 +10,13 @@ from pathlib import Path
 
 
 # the size of the list marker should be more than the different loading
-list_marker=["circle","square","triangle-up","diamond","cross","triangle-down"]
+list_marker=["circle","square","triangle-up","diamond","cross",
+            "triangle-down","triangle-left","triangle-right","star",
+            "star-open","hexagon","hexagon-open","circle-open", "square-open", 
+            "diamond-open","triangle-up-open","triangle-down-open",
+            "circle-dot","square-dot", "diamond-dot","triangle-up-dot",
+            "triangle-down-dot","circle-cross","square-cross","diamond-cross",
+            "triangle-up-cross","circle-x","square-x","diamond-x","triangle-up-x"]
 
 # -------------------- Page Configuration --------------------
 st.set_page_config(
