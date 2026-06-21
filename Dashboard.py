@@ -25,7 +25,7 @@ list_marker=["circle","square","triangle-up","diamond","cross",
     
 # -------------------- Page Configuration --------------------
 st.set_page_config(
-    page_title="Ice Test Dashboard",
+    page_title="IceMechaData",
     page_icon="🧊",
 )
 
