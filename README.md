@@ -24,10 +24,10 @@ To contribute:
 ---
 
 
-# Temporary external access to the application (For Maurine)
+# External access to the application
 The current deployment of the dashboard is available at:
 
-https://icemechadata-dashboard-xfese6nntnuhad84uazeuw.streamlit.app/
+https://icemechadata-yu4djjn5qqmg547r2txvrw.streamlit.app
 
 
 
